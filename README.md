@@ -1,2 +1,2 @@
 # Sumobot
-Repository for 2016 Sumobot
+Repository for 2017 Sumobot
